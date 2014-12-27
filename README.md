@@ -14,7 +14,7 @@ This project is licensed under:
 
 ##threadpool11 performance compared to OpenMP
 
-Here is a result of OpenMP demo found it the tree.
+Here is a result of OpenMP demo found in the tree.
 > Your machine's hardware concurrency is 8
 
 > threadpool11 execution took 16953 milliseconds.
